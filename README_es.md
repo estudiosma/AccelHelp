@@ -51,7 +51,7 @@ Solicita un dispositivo directamente por [**WhatsApp aquí**](https://wa.me/5939
 El proyecto incluye scripts para importar y graficar las señales:
 
 ```matlab
-addpath('ma_functions');
+addpath('ma_functions'); % download here: https://github.com/estudiosma/matlab
 data = readmatrix('test.txt');
 fs = 50; % Frecuencia de muestreo en Hz
 t = (0:length(data)-1)/fs;
