@@ -1,6 +1,7 @@
 close all; 
 clear; 
 clc; 
+%% Download ma_functions here: https://github.com/estudiosma/matlab
 addpath('ma_functions'); 
 %% 
 file_name = 'test.txt'; 
