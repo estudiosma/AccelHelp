@@ -60,7 +60,7 @@ ma_fft_plot(data_d, fs);
 plot(t, data_d);
 legend("AccX", "AccY", "AccZ");
 ```
-![System](img/FFT.png)
+![System](img/fft.jpg)
 
 
 
