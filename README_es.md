@@ -70,7 +70,7 @@ Este proyecto fue desarrollado por **Estudios MA**, con enfoque en sistemas de a
 
 Si usas este código, hardware o documentación como parte de tu proyecto personal o académico, **por favor referencia:**
 
-Molina-Vidal, D.A., Estudios MA (2025). AccelHelp. Available online: https://github.com/estudiosma/AccelHelp.
+Molina-Vidal, D.A., Estudios MA (2025). AccelHelp. Available online: https://github.com/estudiosma/AccelHelp
 
 ## ✍️ Autor
 
