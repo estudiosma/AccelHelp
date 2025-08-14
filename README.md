@@ -1,6 +1,6 @@
 # 📦 AccelHelp
 
-**AccelHelp** is a portable system designed to acquire accelerometer signals in biomedical, educational, or research applications. Its design combines compact hardware with a simple interface for capturing, visualizing, and analyzing data online.
+**AccelHelp** is a portable system designed to acquire accelerometer signals in research or educational applications. Its design combines compact hardware with a simple interface for capturing, visualizing, and analyzing data online.
 
 ![Product](img/Product.png)
 
@@ -8,7 +8,7 @@ AccelHelp is available as a **ready-to-use physical product**, with personalized
 
 📲 **Do you want to purchase the device?**
 
-Order a device directly by [**WhatsApp here**](https://wa.me/593979287659?text=Hello%21+I+wish+to+purchase+the+device+%2AAccelHelp)
+Order a device directly by [**WhatsApp**.](https://wa.me/593979287659?text=Hello%21+I+wish+to+purchase+the+device+%2AAccelHelp)
 
 ---
 
@@ -17,7 +17,7 @@ Order a device directly by [**WhatsApp here**](https://wa.me/593979287659?text=H
 - ✅ Online capture of 3-axis accelerometer signals.
 - 🛠️ Viewing and recording with **SerialHelp** software.
 - 💾 Data logging in `.txt` files for later analysis.
-- 🧪 Scripts for analysis in **Matlab / Octave**.
+- 🧪 Scripts for analysis in **Matlab, Octave, and Python**.
 - 🩹 Velcro fastening: quick and non-invasive installation.
 
 ![System](img/System.png)
@@ -70,11 +70,10 @@ This project was developed by **Estudios MA**, focusing on biomedical acquisitio
 
 If you use this code, hardware, or documentation as part of your personal or academic project, **please reference:**
 
-Molina-Vidal, D.A., Estudios MA (2025). AccelHelp. Available online: https://github.com/estudiosma/AccelHelp
+Estudios MA, Molina-Vidal, D.A (2025). AccelHelp. Available online: https://github.com/estudiosma/AccelHelp
 
 ## ✍️ Author
 
 **Estudios MA – Electronic and Biomedical Engineering**  
-Eng. Danilo Molina, M.Sc  
-📧 estudiosma01@gmail.com  
+Eng. Danilo Molina, M.Sc
 🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
