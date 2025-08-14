@@ -42,7 +42,7 @@ Solicita un dispositivo directamente por [**WhatsApp**.](https://wa.me/593979287
 2. Abre el **Administrador de dispositivos** y localiza el puerto `USB-SERIAL CH340`.
 3. Ejecuta el software **SerialHelp**.
 4. Si no se conecta automáticamente, ve a:  
-`Configuración → Buscar Puerto → Seleccionar COM → Guardar`.
+`Settings → Search for Port → Select COM → Save`.
 
 ---
 
