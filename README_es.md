@@ -59,7 +59,7 @@ data_d = ma_detrend(data, 1);
 ma_fft_plot(data_d, fs);
 plot(t, data_d);
 legend("AccX", "AccY", "AccZ");
-
+```
 ![Sistema](img/fft.jpg)
 
 ## Créditos y atribución
