@@ -59,3 +59,19 @@ data_d = ma_detrend(data, 1);
 ma_fft_plot(data_d, fs);
 plot(t, data_d);
 legend("AccX", "AccY", "AccZ");
+
+![Sistema](img/fft.jpg)
+
+## Créditos y atribución
+
+Este proyecto fue desarrollado por **Estudios MA**, enfocado en sistemas de adquisición biomédica y análisis de señales.
+
+Si utilizas este código, hardware o documentación como parte de tu proyecto personal o académico, **por favor referencia:**
+
+Estudios MA, Molina-Vidal, D.A (2025). AccelHelp. Disponible en línea: https://github.com/estudiosma/AccelHelp
+
+## ✍️ Autor
+
+**Estudios MA – Ingeniería Electrónica y Biomédica**  
+Ing. Danilo Molina, M.Sc  
+🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
